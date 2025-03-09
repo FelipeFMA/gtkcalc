@@ -2,6 +2,9 @@
 
 A simple calculator application built with C and GTK3.
 
+![image](https://github.com/user-attachments/assets/b4751593-f742-47aa-868a-f6af5ab15612)
+
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
