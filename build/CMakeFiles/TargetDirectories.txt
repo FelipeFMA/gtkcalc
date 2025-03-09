@@ -1,3 +1,0 @@
-/home/felipe/Documents/calculadora/build/CMakeFiles/calc.dir
-/home/felipe/Documents/calculadora/build/CMakeFiles/edit_cache.dir
-/home/felipe/Documents/calculadora/build/CMakeFiles/rebuild_cache.dir
