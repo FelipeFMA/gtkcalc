@@ -11,12 +11,15 @@ A simple calculator application built with C and GTK3.
 - Decimal point support
 - Clear button (C) to reset the calculator
 - Backspace button (⌫) to delete the last digit
-- Error handling for division by zero
+- Improved error handling for division by zero and invalid operations
+- Better visual feedback with button highlighting
+- Responsive UI with improved styling
 
 ## Requirements
 
 - GCC compiler
 - GTK3 development libraries
+- Math library (libm)
 
 ## Building the Application
 
@@ -57,6 +60,24 @@ After building, run the calculator with:
 - Click the equals (=) button to calculate the result
 - Click the clear (C) button to reset the calculator
 - Click the backspace (⌫) button to delete the last digit
+
+### Keyboard Shortcuts
+
+The calculator also supports keyboard input:
+- Number keys (0-9) for entering digits
+- Period (.) for decimal point
+- Operation keys (+, -, *, /) for arithmetic operations
+- Enter or = for calculating the result
+- Escape or 'c' key for clearing the calculator
+- Backspace for deleting the last digit
+
+## Code Structure
+
+The calculator has been refactored to use a more modular approach:
+- Calculator state is encapsulated in a struct
+- Improved error handling for mathematical operations
+- Better visual feedback with CSS styling
+- Cleaner code organization with proper documentation
 
 ## Cleaning Up
 
