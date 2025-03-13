@@ -2,7 +2,7 @@
 
 A simple calculator application built with C and GTK3.
 
-![image](https://github.com/user-attachments/assets/b4751593-f742-47aa-868a-f6af5ab15612)
+![image](https://github.com/user-attachments/assets/eebed299-db4b-4e00-8f2f-813a473fb4e2)
 
 
 ## Features
